@@ -1,0 +1,32 @@
+TOOL V6 STORAGE CORE
+
+SÜRÜM GEÇMİŞİ
+
+[V6.0 - TÜRKÇE YAYIN SÜRÜMÜ]
+
+Yeni Özellikler:
+
+* Türkçe kullanıcı arayüzü
+* Depolama Kontrol Paneli
+* Disk Analiz Merkezi
+* Oyun Kütüphanesi Tarama
+* Akıllı Yedekleme Merkezi
+* Akıllı Dosya Aktarım Merkezi
+* TCP Optimizasyon Merkezi
+* Güvenli Rapor Oluşturma
+* Güvenli Mod Bilgilendirme Paneli
+* EXE Yayın Sürümü
+
+Düzeltmeler:
+
+* Açılış ekranı Panel olarak ayarlandı
+* TCP ekranı güncellendi
+* Arayüz taşmaları düzeltildi
+* Türkçe metinler düzenlendi
+* Yayın sürümü son kontrolleri tamamlandı
+
+Geliştirici:
+ViralFabrika Tech
+
+Yayın Tarihi:
+24.06.2026
